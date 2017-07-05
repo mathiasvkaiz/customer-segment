@@ -28,5 +28,6 @@ This project contains three files:
   
 ### Run
 In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command:  
-```jupyter notebook customer_segments.ipynb```
+```jupyter notebook smartcab.ipynb```  
+```python smartcab/agent.py```
 
