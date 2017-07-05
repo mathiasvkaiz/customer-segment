@@ -12,7 +12,6 @@ This project uses the following software and Python libraries:
 - pandas
 - matplotlib
 - scikit-learn (v0.17)
-- matplotlib
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
 
