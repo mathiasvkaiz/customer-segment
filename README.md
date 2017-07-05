@@ -20,14 +20,12 @@ You will also need to have software installed to run and execute a [Jupyter Note
 This project contains three files:
 
 - customer_segments.ipynb  
-  This is the main file where you will be performing your work on the project.
+  This is the main file where you will be performing your work on the project.
 - customers.csv: The project dataset  
   You’ll load this data in the notebook.
 - visuals.py  
   This Python script provides supplementary visualizations for the project. Do not modify.
   
 ### Run
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command:  
-```jupyter notebook smartcab.ipynb```  
-```python smartcab/agent.py```
-
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command:  
+```jupyter notebook customer_segments.ipynb```
